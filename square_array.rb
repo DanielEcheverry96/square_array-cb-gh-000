@@ -1,6 +1,6 @@
 def square_array(array)
   # your code here
-  array.each{|index|
+  array2 = array.each{|index|
        index ** index
   }
 end
